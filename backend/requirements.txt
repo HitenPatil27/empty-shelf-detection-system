@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+flask
+requests
+firebase-admin
+ollama
+numpy

@@ -1,0 +1,28 @@
+# Large Media
+Recording 2025-04-05 225407.mp4
+
+# Python Virtual Environment and caches
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flutter / Dart temporary files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+
+# Local configuration files (credentials)
+backend/serviceAccountKey.json
+
+# Logs
+*.log
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+.qodo/
