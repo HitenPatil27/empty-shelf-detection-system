@@ -5,9 +5,9 @@ This repository implements a real-time empty shelf detector using a custom-train
 ---
 
 ## Live Detection Screenshot
-![Live Stream Detection Screenshot](file:///d:/CV/Screenshot.png)
+![Live Stream Detection Screenshot](Screenshot.png)
 
-*View full image file: [Screenshot.png](file:///d:/CV/Screenshot.png)*
+*View full image file: [Screenshot.png](Screenshot.png)*
 
 ---
 
