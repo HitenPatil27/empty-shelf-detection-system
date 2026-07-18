@@ -94,5 +94,15 @@ The application logs alerts to Firestore and dispatches notifications via FCM.
 ---
 
 ## Model Training & Demonstration
-There is no Jupyter Notebook (`.ipynb`) included in this repository. Instead, the demonstration of the system training, execution, and detection runs has been captured in the local video recording:
-* **Demo/Training Recording:** [Recording 2025-04-05 225407.mp4](file:///d:/CV/Recording%202025-04-05%20225407.mp4) (126 MB)
+There is no Jupyter Notebook (`.ipynb`) included in this repository. Instead, the demonstration of the system training, execution, and detection runs has been captured and uploaded to the GitHub repository:
+
+* **Demo/Training Recording:** [Recording 2025-04-05 225407.mp4](https://github.com/HitenPatil27/empty-shelf-detection-system/blob/main/Recording%202025-04-05%20225407.mp4) (126 MB)
+
+### Git LFS (Large File Storage):
+Because the recording is a large 126 MB file, it is tracked and hosted using **Git LFS**. 
+When cloning this repository, run the following commands to download the actual video file:
+```bash
+# Initialize LFS and pull the video file
+git lfs install
+git lfs pull
+```
